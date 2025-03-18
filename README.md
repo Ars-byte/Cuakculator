@@ -1,14 +1,17 @@
-# Cuakculator
+# <--- Cuakculator --->
 
 It's a GUI calculator made in Python by me.
 
 To use them, you need the following:
 
-### Dependences
+
+## <-- Dependences -->
+
+  chmod +x dependences.sh
+
+  ./dependences.sh
 
 
-pip install customtkinter
+### <- Goodbye :D ->
 
-pip install tkinter
-
-#### Goodbye :D
+Bye, nice to meet you :)
