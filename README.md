@@ -7,9 +7,7 @@ To use them, you need the following:
 
 ## <-- Dependences -->
 
-  chmod +x dependences.sh
-
-  ./dependences.sh
+pip install -r dependences.txt
 
 
 ### <- Goodbye :D ->
